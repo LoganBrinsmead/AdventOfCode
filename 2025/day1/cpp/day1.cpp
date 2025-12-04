@@ -43,6 +43,10 @@ int main() {
                     place = 0;
                 }
 
+                if(place == 0) {
+                    res += 1;
+                }
+
                 rotations -= 1;
             }
 
@@ -55,14 +59,13 @@ int main() {
                     place = 99;
                 }
 
+                if(place == 0) {
+                    res += 1;
+                }
+
                 rotations -= 1;
             }
         }
-
-        if(place == 0) {
-            res += 1;
-        }
-
 
 
     }
