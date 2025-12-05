@@ -1,0 +1,1 @@
+A repository of my solutions to Advent Of Code (https://adventofcode.com/) in a random assortment of languages.
